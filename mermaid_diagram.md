@@ -1,3 +1,6 @@
+# 🧠 App Architecture Flowchart (Mermaid)
+
+```mermaid
 flowchart TD
     %% App Entry
     app[App Module]
